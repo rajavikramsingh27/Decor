@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Decor/Pods-Decor-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AnimatedCollectionViewLayout/AnimatedCollectionViewLayout.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManager/IQKeyboardManager.framework
+${BUILT_PRODUCTS_DIR}/PanModal/PanModal.framework
+${BUILT_PRODUCTS_DIR}/SlideMenuControllerSwift/SlideMenuControllerSwift.framework
+${BUILT_PRODUCTS_DIR}/ViewAnimator/ViewAnimator.framework

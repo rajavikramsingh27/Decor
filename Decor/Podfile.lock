@@ -1,0 +1,32 @@
+PODS:
+  - AnimatedCollectionViewLayout (1.0.1)
+  - IQKeyboardManager (6.5.5)
+  - PanModal (1.2.7)
+  - SlideMenuControllerSwift (4.0.0)
+  - ViewAnimator (2.7.0)
+
+DEPENDENCIES:
+  - AnimatedCollectionViewLayout
+  - IQKeyboardManager
+  - PanModal
+  - SlideMenuControllerSwift
+  - ViewAnimator
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AnimatedCollectionViewLayout
+    - IQKeyboardManager
+    - PanModal
+    - SlideMenuControllerSwift
+    - ViewAnimator
+
+SPEC CHECKSUMS:
+  AnimatedCollectionViewLayout: 00f0997fd26f0fd02d8b99765023b95570b5d826
+  IQKeyboardManager: 3a8b9e603f8b0eeaf5f096a1f2b2cfcf121992ef
+  PanModal: 3e16ead1a907fb06f4df3f13492fd00149fa4974
+  SlideMenuControllerSwift: 021d6318201c53d4d4d3710517d43d6c556c7dd0
+  ViewAnimator: 5af1c6f3b310f012bf081259c43717aa54fbae73
+
+PODFILE CHECKSUM: e8bf597a96d84ce2609df5e7150caa268a87f5d6
+
+COCOAPODS: 1.7.2
